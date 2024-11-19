@@ -52,7 +52,7 @@
   <div> </div>
    
   <!-- GitHub 奖杯&#127942; -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>< div > < img src = " https://github-profile-trophy.vercel.app/?用户名= buptsdz&theme = gruvbox&row = 1列= 7 &no-frame = true&no-bg = true " / > < br / > < / div >
  
 </div>
  
@@ -66,17 +66,13 @@
   <!-- 个人介绍 -->
   <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
  
-  我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+  我现在就读**南宁师范大学**自然资源与测绘学院测绘工程专业，目前大二
+
+  - &#128218; 目前正在学习CAD，Python，Html,希望能成为一名优秀的开发者。
  
-  - &#127793; 以后的研究方向是频率方向的**机器学习**和集成学习。
  
-  - &#128218; 目前正在学习线性代数和矩阵的基础知识以及常见的模型和应用，包括自己做一些简单的**全栈开发**,希望能成为一名优秀的开发者。
+  - &#129300; 我是一个终身学习者，对编程、人工智能充满热情。
  
-  - &#10024; 我在我的语雀文档上分享我的学习 &#128284;[语雀·史迪仔](https://www.yuque.com/u39067637)
- 
-  - &#129300; 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
- 
-  - &#128101; 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 &#9654;&#65039;[Sparkflare](http://www.sparkflare.cn)
 </td></tr>
  
 <tr><td>
@@ -85,19 +81,11 @@
 <!-- 就读经历 -->
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
  
-- [北京邮电大学](https://www.bupt.edu.cn/) &#8195; &#128204; 2021-09-01 —— Now
+- [南宁师范大学](https://www.bupt.edu.cn/) &#8195; &#128204; 2023-09-01 —— Now
  
-  - 学院：信息与通信工程学院
-  - 专业：通信工程
-   
-<div> </div>
- 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
- 
-- [复旦大学](https://www.fdu.edu.cn/) &#8195; &#128204; 2025-09-01 —— 
- 
-  - 学院：智能复杂体系基础理论与关键技术实验室
-  - 研究方向：机器学习，集成学习，大模型
+  - 学院：自然资源与测绘学院
+  - 专业：测绘工程
+  - 研究方向：GNSS精密数据处理、3S技术集成与应用、精密工程测量
  
 <div> </div>
 </td></tr>
@@ -109,23 +97,23 @@
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
       <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=light&hide_border=true" />
-      <img aligh="center"   “中心” src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
-       < /图片></picture>
-    <img align   对齐="right" width   宽度="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
+    </picture>   < /图片>
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
     <div> </div>
-       < !——指标——><!-- metrics -->
-    <img width   宽度="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <!-- metrics -->   < !——指标——>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
-    <img width   宽度="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
 </div>
  
 ### &#129520; Tools:   # # # & # 129520;工具:
 <!--  skill badge 技能徽章 -->
-<div align   对齐="center"   “中心”>
+<div align="center">
  
-![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)[Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) . [Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) . [Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) . [Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) . [JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) . [HTML5 .js[CSS3徽章](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C徽章]（https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat）
+![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)[Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) . [Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) . [Django Badge   Django徽章](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) . [Vue.js Badge   Vue.js徽章](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) . [JavaScript Badge   JavaScript徽章](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) . [HTML5 .js[CSS3徽章](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C徽章]（https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat）
  
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)[Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google .js]（https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat）Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![联想徽章]（https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat）
+![Node.js Badge   node . js徽章](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge   轻快地徽章](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome   谷歌Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Lenovo Badge   联想的徽章](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)[Node.js Badge   node . js徽章](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge   轻快地徽章](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google .js]（https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat）Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![联想徽章]（https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat）
  
 </div>
  
@@ -134,14 +122,15 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg""https://techstack-generator.vercel.app
+ginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon"   “图标” width   宽度="65" style   风格="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
    
   <!-- svg静态图 -->
-  < img src = " https://skillicons.dev/icons?i=git,邮递员,蟒蛇,pycharm webstorm, linux ubuntu, gmail,团结,mongodb, c, cpp " / ><img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
+  <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>< img src = " https://skillicons.dev/icons?i=git,邮递员,蟒蛇,pycharm webstorm, linux ubuntu, gmail,团结,mongodb, c, cpp " / >
 </div>
  
 <!-- Gif -->   < !——Gif ->
@@ -157,11 +146,11 @@
 </div>
  
 <!-- profile-3d-contrib 3D 贡献图-->
-<picture   <图片>>
+<picture>   <图片>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture   < /图片>>
+</picture>   < /图片>
  
  
 <div align="center">
